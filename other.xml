@@ -1,0 +1,39 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.6.0" last-modified="1530787473000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.6.0/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6583578" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="18" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="lin&#10;phpunit&#10;unit&#10;sona&#10;mess" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpUnitSupport.hidePassedTests" value="false" />
+    <property name="SearchEveryWhereHistory" value="MiddlewareServiceProvider&#10;middlewa&#10;ob&#10;Comp&#10;UserRep" />
+    <property name="SettingsSearchHistory" value="phpunit&#10;Docker" />
+    <property name="evlsprt3.181" value="17" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/jamie/jamieburnip.co.uk/resources&#10;/Users/jamieburnip/Code/vscommerce_api/vendor&#10;/Users/jamieburnip/Code/vscommerce_api/app" />
+    <property name="file.gist.reindex.count" value="138644" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="65301" />
+    <property name="lastTip" value="29" />
+    <property name="settings.code.style.selected.tab.PHP" value="PHPDoc" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
